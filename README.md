@@ -1,0 +1,1 @@
+This assignment demonstrates how Git tracks changes, how branches work, and how GitHub enables collaboration. I will use VS Code to edit files and Git to manage version control.
