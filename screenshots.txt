@@ -1,0 +1,7 @@
+Screenshot 1: README.md file created and committed
+Screenshot 2: Feature branch created and switched
+Screenshot 3: feature.txt file added and committed
+Screenshot 4: Merge of feature branch into main
+Screenshot 5: GitHub repository showing both files
+Screenshot 6: Pull request created and reviewed
+Screenshot 7: Pull request merged and branch deleted
