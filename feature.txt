@@ -1,1 +1,3 @@
 This branch demonstrates how to use the multi-cursor feature in VS Code.
+This branch also shows how pull requests work on GitHub.
+
